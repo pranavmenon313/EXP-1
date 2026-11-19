@@ -1,8 +1,8 @@
 ## EXPERIMENT NO. 1 – VERIFICATION OF KIRCHHOFF'S LAWS
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** |Pranav Menon G.k | **Reg. No.:** |26018309 |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** | 5/11/2026| **Batch / Section:** | cse|
 
 ---
 
