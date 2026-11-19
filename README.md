@@ -69,14 +69,13 @@ b. To verify Kirchhoff's Current Law (KCL) for the given circuit.
 Build the KVL and KCL circuits in Proteus using the same resistor values and supply voltage as the hardware circuit. Place DC voltmeters and DC ammeters from the Virtual Instruments mode, run the simulation, and paste a screenshot showing the meter readings for each circuit.
 
 ### A. KVL simulation
-
-*[ Paste the Proteus KVL simulation screenshot here ]*
+<img width="1177" height="628" alt="BEE(kvl before)" src="https://github.com/user-attachments/assets/bdd806db-30a1-428d-b8e3-0fb8e58b7478" />
 
 **Figure 3:** Proteus simulation of KVL circuit
 
 ### B. KCL simulation
 
-*[ Paste the Proteus KCL simulation screenshot here ]*
+<img width="1123" height="595" alt="BEE(KCLbefore)" src="https://github.com/user-attachments/assets/2b8a46ab-4654-40a6-9355-cb9fbb49a474" />
 
 **Figure 4:** Proteus simulation of KCL circuit
 
@@ -110,7 +109,7 @@ According to KVL, **Vs = VR1 + VR2 + VR3**.
 
 Substitute the observed values and verify that the algebraic sum of the voltage drops is approximately equal to the supply voltage.
 
-*[ Paste the KVL calculation screenshot here ]*
+<img width="1915" height="1075" alt="BEEE(kvl)" src="https://github.com/user-attachments/assets/1b7163d5-1943-4fb3-805b-d928135f5c82" />
 
 **Figure 5:** KVL calculation
 
@@ -120,7 +119,7 @@ According to KCL, **It = I1 + I2 + I3**.
 
 Substitute the observed values and verify that the total current entering the node is approximately equal to the sum of the branch currents.
 
-*[ Paste the KCL calculation screenshot here ]*
+<img width="1915" height="1074" alt="BEEE(kcl)" src="https://github.com/user-attachments/assets/531fe9a9-b438-44d6-ab25-cb9a74f09f43" />
 
 **Figure 6:** KCL calculation
 
